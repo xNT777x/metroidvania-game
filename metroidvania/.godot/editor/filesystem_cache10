@@ -1,3 +1,12 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1759893488
+::res://::1759896412
 icon.svg::CompressedTexture2D::8585082902123709665::1759893451::1759893490::1::::<><><>0<>0<>d8679fb739a28da2572404e9ad90ad83<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets/::1759896521
+bg.png::CompressedTexture2D::1422072779020305648::1759895515::1759895517::1::::<><><>0<>0<>c86a37e6a1b0047073690eaf8343cba7<>res://.godot/imported/bg.png-23a59c2e9cba2223a50fa3fe41b70b25.ctex::
+player.png::CompressedTexture2D::4940542567427470093::1759896521::1759896523::1::::<><><>0<>0<>3354bffaca09074275065c0b21b38efe<>res://.godot/imported/player.png-be2216fcaabb5c62aa2466cd9a5726a8.ctex::
+::res://maps/::1759895338
+::res://objects/::1759896433
+player.tscn::PackedScene::6445301706461181848::1759896433::0::1::::<><><>0<>0<><>::
+::res://scenes/::1759896187
+main.tscn::PackedScene::7803444085465313117::1759896187::0::1::::<><><>0<>0<><>::uid://dwmd3hswmi6ab::::res://scenes/map.tscn
+map.tscn::PackedScene::8728421693858265533::1759896187::0::1::::<><><>0<>0<><>::uid://ui4lir2vr45i::::res://assets/bg.png

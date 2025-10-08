@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://dwmd3hswmi6ab"]
+
+[ext_resource type="Texture2D" uid="uid://ui4lir2vr45i" path="res://assets/bg.png" id="1_4xfga"]
+[ext_resource type="PackedScene" uid="uid://cx3fgbd5314pw" path="res://objects/player.tscn" id="1_paxxb"]
+
+[node name="Map" type="Node2D"]
+
+[node name="Player" parent="." instance=ExtResource("1_paxxb")]
+top_level = true
+position = Vector2(102, 186)
+
+[node name="TileMapLayer" type="TileMapLayer" parent="."]
+
+[node name="Background" type="Sprite2D" parent="."]
+modulate = Color(0, 0.84313726, 1, 1)
+texture = ExtResource("1_4xfga")
+centered = false
